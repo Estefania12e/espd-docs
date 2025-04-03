@@ -40,13 +40,6 @@ A technical description of the ESPD Request
 xref:tech_request.adoc[Click here for the ESPD Request ]
 ****
 
-[.tile]
-.Common Aspects for Criteria
-****
-This section describes Common Aspects for Criteria
-
-xref:tech_common_aspects_for_criteria.adoc[Common Aspects for Criteria]
-****
 
 [.tile]
 .Exclusion Grounds
@@ -70,6 +63,14 @@ xref:technical:tech_selection_criteria.adoc[The ESPD Selection Criteria]
 A technical description of the ESPD Response
 
 xref:technical:tech_response.adoc[Click here for the ESPD Response]
+****
+
+[.tile]
+.Common Aspects for Criteria
+****
+This section describes Common Aspects for Criteria
+
+xref:tech_common_aspects_for_criteria.adoc[Common Aspects for Criteria]
 ****
 
 [.tile]
